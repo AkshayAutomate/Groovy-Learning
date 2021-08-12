@@ -6,7 +6,7 @@ abstract class New2{
         this.Domain=Domain
         this.Skill=Skill
         this.Exp=Exp
-        println "In abstract class"
-        println "$Domain:$Skill:$Exp"}
+        println "This is Akshay"
+        println "Domain:$Domain,Primary Skill:$Skill,Experience:$Exp"}
     abstract def Start()
 }
