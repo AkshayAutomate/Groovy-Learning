@@ -1,4 +1,4 @@
-  println "Hello All this is $name";
+  println "Hello All ";
   println "Welcome to Demo Session";
 // def list = ["A" , "b" , ["X","Y","Z"],"c"]
 // // println list.get(2)
