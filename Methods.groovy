@@ -78,3 +78,5 @@
 //  myfile.withWriter{writer -> writer.writeLine("write and withWriter will overrites the data")}
 //  myfile.append("this is appended")
 //  println myfile.isHidden()
+
+println "DEPLOYMENT IS SUCCESSFUL"
