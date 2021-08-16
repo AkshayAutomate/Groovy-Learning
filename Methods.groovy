@@ -79,4 +79,4 @@
 //  myfile.append("this is appended")
 //  println myfile.isHidden()
 
-println "DEPLOYMENT IS SUCCESSFUL"
+println "DEPLOYMENT IS SUCCESSFUL";
