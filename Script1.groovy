@@ -1,6 +1,6 @@
   println "Hello All ";
   println "Welcome to Demo Session";
-  println "Mainframe BUILD is SUCCESSFUL"
+  println "Mainframe BUILD is SUCCESSFUL -- Demonstarted"
 // def list = ["A" , "b" , ["X","Y","Z"],"c"]
 // // println list.get(2)
 // // println list[2][1]
